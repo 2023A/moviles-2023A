@@ -1,0 +1,21 @@
+Configurar mi usuario
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
+Reiniciar cuenta:
+	Tecla Windows 
+	Administrador de Credenciales
+	Credenciales de windows
+	Github
+	Quitar
+
+Primera vez en el ordenador: 
+git clone https://github.com/2023A/moviles-2023A.git
+
+
+Siempre
+1. git pull //Obtiene la última versión del proyecto desde el servidor
+2. git add -A //Identifica los cambios y los lista.
+3. git commit -m "Mensaje" //Expone la lista de cambios y genera una descripción sobre el cambio
+4. git push //Lanzar cambios
+5. Repetir paso 1
